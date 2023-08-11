@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-    <h1>Speech to text</h1>
+    <h1 className="text-red-500">Speech to text</h1>
     </>
   );
 }
